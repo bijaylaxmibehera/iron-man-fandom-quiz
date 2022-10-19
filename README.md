@@ -5,6 +5,7 @@ It is a CLI based Iron Man's fandom quiz app. Let's play and test how much you k
 ## Tech Stack
 
 - NodeJS
+- Chalk 
 
 
 ## Play quiz
